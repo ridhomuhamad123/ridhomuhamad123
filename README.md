@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Profile</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,7 +42,6 @@ Here are some ideas to get you started:
         }
     </style>
 </head>
-<body>
     <header>
         <h1>GitHub Profile: Your Name</h1>
     </header>
@@ -95,7 +91,5 @@ Here are some ideas to get you started:
         Description of responsibilities and achievements.</p>
     </section>
 
-    <section class="certifications">
-        <h2>Cert
 
 
