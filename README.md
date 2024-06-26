@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhooo&show_icons=true&locale=en&layout=compact" alt="ridhooo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syahruulll&show_icons=true&locale=en" alt="syahruulll" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhooo&show_icons=true&locale=en" alt="ridhooo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syahruulll&" alt="syahruulll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhooo&" alt="ridhooo" /></p>
